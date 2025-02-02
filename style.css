@@ -25,14 +25,13 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  min-height: 100vh;
-  padding: 40px 0;
+  padding: 155px 0 40px 0;
 }
 
 .item {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   text-align: center;
   width: 700px;
